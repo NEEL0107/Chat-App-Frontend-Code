@@ -19,7 +19,8 @@
 
 
 ### Main Page
-![Main Page](https://github.com/user-attachments/assets/01f3593e-1da0-43f5-b86a-6329a1afe508)
+![Main Page](https://github.com/user-attachments/assets/64e15c00-8452-4004-a389-d54f95547f7c)
+
 
 
 ### Group Control Page
