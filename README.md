@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f75e15e4-7318-436e-8a4f-031346b1f8bf)# CHATAPP - Chat with Favourites
+# CHATAPP - Chat with Favourites
 
 ## Features
 
