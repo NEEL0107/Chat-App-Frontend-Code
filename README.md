@@ -39,8 +39,4 @@ To get a local copy up and running, follow these simple steps:
 
 1. *Clone the repo*
    ```bash
-   git clone https://github.com/Kaushalvala/Synora.git
-
-## Install dependencies
-   ```bash
-   pip install -r requirements.txt
+   https://github.com/NEEL0107/Chat-App-Frontend-Code.git
